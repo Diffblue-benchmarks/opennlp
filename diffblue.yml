@@ -1,0 +1,22 @@
+# Tested on Deeptest release 1.10.0
+cbmcArguments:
+  do-not-test-methods-with-access: [ private ]
+  java-generate-no-comments: true
+  no-trivial-tests: true
+  java-test-input-factory-bmc-max-mutators: 4
+phases:
+-
+  timeout: 20
+  cbmcArguments:
+    java-assume-inputs-non-null: true
+    string-non-empty: true
+    string-printable: true
+    unwind: 2
+-
+  timeout: 60
+  cbmcArguments:
+    unwind: 4
+-
+  timeout: 120
+  cbmcArguments:
+    unwind: 8
