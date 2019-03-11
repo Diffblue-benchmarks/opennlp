@@ -1,0 +1,201 @@
+units:
+  - target:
+    - dir: opennlp-distr/target/filtered-md/opennlp-tools/target/classes
+      file: opennlp/tools/stemmer/snowball/frenchStemmer.class
+      sourceDir: opennlp-distr/target/filtered-md/opennlp-tools/src/main/java
+      sourceFile: opennlp/tools/stemmer/snowball/frenchStemmer.java
+  - target:
+    - dir: opennlp-tools/target/classes
+      file: opennlp/tools/stemmer/snowball/frenchStemmer.class
+      sourceDir: opennlp-distr/target/filtered-md/opennlp-tools/src/main/java
+      sourceFile: opennlp/tools/stemmer/snowball/frenchStemmer.java
+  - target:
+    - dir: opennlp-distr/target/filtered-md/opennlp-tools/target/classes
+      file: opennlp/tools/stemmer/snowball/frenchStemmer.class
+      sourceDir: opennlp-distr/target/filtered-md/opennlp-tools/src/main/java
+      sourceFile: opennlp/tools/stemmer/snowball/frenchStemmer.java
+  - target:
+    - dir: opennlp-tools/target/classes
+      file: opennlp/tools/stemmer/snowball/frenchStemmer.class
+      sourceDir: opennlp-distr/target/filtered-md/opennlp-tools/src/main/java
+      sourceFile: opennlp/tools/stemmer/snowball/frenchStemmer.java
+  - target:
+    - dir: opennlp-distr/target/filtered-md/opennlp-tools/target/classes
+      file: opennlp/tools/stemmer/snowball/germanStemmer.class
+      sourceDir: opennlp-distr/target/filtered-md/opennlp-tools/src/main/java
+      sourceFile: opennlp/tools/stemmer/snowball/germanStemmer.java
+  - target:
+    - dir: opennlp-tools/target/classes
+      file: opennlp/tools/stemmer/snowball/germanStemmer.class
+      sourceDir: opennlp-distr/target/filtered-md/opennlp-tools/src/main/java
+      sourceFile: opennlp/tools/stemmer/snowball/germanStemmer.java
+  - target:
+    - dir: opennlp-distr/target/filtered-md/opennlp-tools/target/classes
+      file: opennlp/tools/stemmer/snowball/germanStemmer.class
+      sourceDir: opennlp-distr/target/filtered-md/opennlp-tools/src/main/java
+      sourceFile: opennlp/tools/stemmer/snowball/germanStemmer.java
+  - target:
+    - dir: opennlp-tools/target/classes
+      file: opennlp/tools/stemmer/snowball/germanStemmer.class
+      sourceDir: opennlp-distr/target/filtered-md/opennlp-tools/src/main/java
+      sourceFile: opennlp/tools/stemmer/snowball/germanStemmer.java
+  - target:
+    - dir: opennlp-distr/target/filtered-md/opennlp-tools/target/classes
+      file: opennlp/tools/stemmer/snowball/turkishStemmer.class
+      sourceDir: opennlp-distr/target/filtered-md/opennlp-tools/src/main/java
+      sourceFile: opennlp/tools/stemmer/snowball/turkishStemmer.java
+  - target:
+    - dir: opennlp-tools/target/classes
+      file: opennlp/tools/stemmer/snowball/turkishStemmer.class
+      sourceDir: opennlp-distr/target/filtered-md/opennlp-tools/src/main/java
+      sourceFile: opennlp/tools/stemmer/snowball/turkishStemmer.java
+  - target:
+    - dir: opennlp-distr/target/filtered-md/opennlp-tools/target/classes
+      file: opennlp/tools/stemmer/snowball/turkishStemmer.class
+      sourceDir: opennlp-distr/target/filtered-md/opennlp-tools/src/main/java
+      sourceFile: opennlp/tools/stemmer/snowball/turkishStemmer.java
+  - target:
+    - dir: opennlp-tools/target/classes
+      file: opennlp/tools/stemmer/snowball/turkishStemmer.class
+      sourceDir: opennlp-distr/target/filtered-md/opennlp-tools/src/main/java
+      sourceFile: opennlp/tools/stemmer/snowball/turkishStemmer.java
+  - target:
+    - dir: opennlp-distr/target/filtered-md/opennlp-tools/target/classes
+      file: opennlp/tools/stemmer/snowball/portugueseStemmer.class
+      sourceDir: opennlp-distr/target/filtered-md/opennlp-tools/src/main/java
+      sourceFile: opennlp/tools/stemmer/snowball/portugueseStemmer.java
+  - target:
+    - dir: opennlp-tools/target/classes
+      file: opennlp/tools/stemmer/snowball/portugueseStemmer.class
+      sourceDir: opennlp-distr/target/filtered-md/opennlp-tools/src/main/java
+      sourceFile: opennlp/tools/stemmer/snowball/portugueseStemmer.java
+  - target:
+    - dir: opennlp-distr/target/filtered-md/opennlp-tools/target/classes
+      file: opennlp/tools/stemmer/snowball/portugueseStemmer.class
+      sourceDir: opennlp-distr/target/filtered-md/opennlp-tools/src/main/java
+      sourceFile: opennlp/tools/stemmer/snowball/portugueseStemmer.java
+  - target:
+    - dir: opennlp-tools/target/classes
+      file: opennlp/tools/stemmer/snowball/portugueseStemmer.class
+      sourceDir: opennlp-distr/target/filtered-md/opennlp-tools/src/main/java
+      sourceFile: opennlp/tools/stemmer/snowball/portugueseStemmer.java
+  - target:
+    - dir: opennlp-distr/target/filtered-md/opennlp-tools/target/classes
+      file: opennlp/tools/stemmer/snowball/italianStemmer.class
+      sourceDir: opennlp-distr/target/filtered-md/opennlp-tools/src/main/java
+      sourceFile: opennlp/tools/stemmer/snowball/italianStemmer.java
+  - target:
+    - dir: opennlp-tools/target/classes
+      file: opennlp/tools/stemmer/snowball/italianStemmer.class
+      sourceDir: opennlp-distr/target/filtered-md/opennlp-tools/src/main/java
+      sourceFile: opennlp/tools/stemmer/snowball/italianStemmer.java
+  - target:
+    - dir: opennlp-distr/target/filtered-md/opennlp-tools/target/classes
+      file: opennlp/tools/stemmer/snowball/italianStemmer.class
+      sourceDir: opennlp-distr/target/filtered-md/opennlp-tools/src/main/java
+      sourceFile: opennlp/tools/stemmer/snowball/italianStemmer.java
+  - target:
+    - dir: opennlp-tools/target/classes
+      file: opennlp/tools/stemmer/snowball/italianStemmer.class
+      sourceDir: opennlp-distr/target/filtered-md/opennlp-tools/src/main/java
+      sourceFile: opennlp/tools/stemmer/snowball/italianStemmer.java
+  - target:
+    - dir: opennlp-distr/target/filtered-md/opennlp-tools/target/classes
+      file: opennlp/tools/stemmer/snowball/dutchStemmer.class
+      sourceDir: opennlp-distr/target/filtered-md/opennlp-tools/src/main/java
+      sourceFile: opennlp/tools/stemmer/snowball/dutchStemmer.java
+  - target:
+    - dir: opennlp-tools/target/classes
+      file: opennlp/tools/stemmer/snowball/dutchStemmer.class
+      sourceDir: opennlp-distr/target/filtered-md/opennlp-tools/src/main/java
+      sourceFile: opennlp/tools/stemmer/snowball/dutchStemmer.java
+  - target:
+    - dir: opennlp-distr/target/filtered-md/opennlp-tools/target/classes
+      file: opennlp/tools/stemmer/snowball/dutchStemmer.class
+      sourceDir: opennlp-distr/target/filtered-md/opennlp-tools/src/main/java
+      sourceFile: opennlp/tools/stemmer/snowball/dutchStemmer.java
+  - target:
+    - dir: opennlp-tools/target/classes
+      file: opennlp/tools/stemmer/snowball/dutchStemmer.class
+      sourceDir: opennlp-distr/target/filtered-md/opennlp-tools/src/main/java
+      sourceFile: opennlp/tools/stemmer/snowball/dutchStemmer.java
+  - target:
+    - dir: opennlp-distr/target/filtered-md/opennlp-tools/target/classes
+      file: opennlp/tools/stemmer/snowball/spanishStemmer.class
+      sourceDir: opennlp-distr/target/filtered-md/opennlp-tools/src/main/java
+      sourceFile: opennlp/tools/stemmer/snowball/spanishStemmer.java
+  - target:
+    - dir: opennlp-tools/target/classes
+      file: opennlp/tools/stemmer/snowball/spanishStemmer.class
+      sourceDir: opennlp-distr/target/filtered-md/opennlp-tools/src/main/java
+      sourceFile: opennlp/tools/stemmer/snowball/spanishStemmer.java
+  - target:
+    - dir: opennlp-distr/target/filtered-md/opennlp-tools/target/classes
+      file: opennlp/tools/stemmer/snowball/spanishStemmer.class
+      sourceDir: opennlp-distr/target/filtered-md/opennlp-tools/src/main/java
+      sourceFile: opennlp/tools/stemmer/snowball/spanishStemmer.java
+  - target:
+    - dir: opennlp-tools/target/classes
+      file: opennlp/tools/stemmer/snowball/spanishStemmer.class
+      sourceDir: opennlp-distr/target/filtered-md/opennlp-tools/src/main/java
+      sourceFile: opennlp/tools/stemmer/snowball/spanishStemmer.java
+  - target:
+    - dir: opennlp-distr/target/filtered-md/opennlp-tools/target/classes
+      file: opennlp/tools/stemmer/snowball/romanianStemmer.class
+      sourceDir: opennlp-distr/target/filtered-md/opennlp-tools/src/main/java
+      sourceFile: opennlp/tools/stemmer/snowball/romanianStemmer.java
+  - target:
+    - dir: opennlp-tools/target/classes
+      file: opennlp/tools/stemmer/snowball/romanianStemmer.class
+      sourceDir: opennlp-distr/target/filtered-md/opennlp-tools/src/main/java
+      sourceFile: opennlp/tools/stemmer/snowball/romanianStemmer.java
+  - target:
+    - dir: opennlp-distr/target/filtered-md/opennlp-tools/target/classes
+      file: opennlp/tools/stemmer/snowball/romanianStemmer.class
+      sourceDir: opennlp-distr/target/filtered-md/opennlp-tools/src/main/java
+      sourceFile: opennlp/tools/stemmer/snowball/romanianStemmer.java
+  - target:
+    - dir: opennlp-tools/target/classes
+      file: opennlp/tools/stemmer/snowball/romanianStemmer.class
+      sourceDir: opennlp-distr/target/filtered-md/opennlp-tools/src/main/java
+      sourceFile: opennlp/tools/stemmer/snowball/romanianStemmer.java
+  - target:
+    - dir: opennlp-distr/target/filtered-md/opennlp-tools/target/classes
+      file: opennlp/tools/stemmer/snowball/englishStemmer.class
+      sourceDir: opennlp-distr/target/filtered-md/opennlp-tools/src/main/java
+      sourceFile: opennlp/tools/stemmer/snowball/englishStemmer.java
+  - target:
+    - dir: opennlp-tools/target/classes
+      file: opennlp/tools/stemmer/snowball/englishStemmer.class
+      sourceDir: opennlp-distr/target/filtered-md/opennlp-tools/src/main/java
+      sourceFile: opennlp/tools/stemmer/snowball/englishStemmer.java
+  - target:
+    - dir: opennlp-distr/target/filtered-md/opennlp-tools/target/classes
+      file: opennlp/tools/stemmer/snowball/englishStemmer.class
+      sourceDir: opennlp-distr/target/filtered-md/opennlp-tools/src/main/java
+      sourceFile: opennlp/tools/stemmer/snowball/englishStemmer.java
+  - target:
+    - dir: opennlp-tools/target/classes
+      file: opennlp/tools/stemmer/snowball/englishStemmer.class
+      sourceDir: opennlp-distr/target/filtered-md/opennlp-tools/src/main/java
+      sourceFile: opennlp/tools/stemmer/snowball/englishStemmer.java
+  - target:
+    - dir: opennlp-distr/target/filtered-md/opennlp-tools/target/classes
+      file: opennlp/tools/stemmer/snowball/porterStemmer.class
+      sourceDir: opennlp-distr/target/filtered-md/opennlp-tools/src/main/java
+      sourceFile: opennlp/tools/stemmer/snowball/porterStemmer.java
+  - target:
+    - dir: opennlp-tools/target/classes
+      file: opennlp/tools/stemmer/snowball/porterStemmer.class
+      sourceDir: opennlp-distr/target/filtered-md/opennlp-tools/src/main/java
+      sourceFile: opennlp/tools/stemmer/snowball/porterStemmer.java
+  - target:
+    - dir: opennlp-distr/target/filtered-md/opennlp-tools/target/classes
+      file: opennlp/tools/stemmer/snowball/porterStemmer.class
+      sourceDir: opennlp-distr/target/filtered-md/opennlp-tools/src/main/java
+      sourceFile: opennlp/tools/stemmer/snowball/porterStemmer.java
+  - target:
+    - dir: opennlp-tools/target/classes
+      file: opennlp/tools/stemmer/snowball/porterStemmer.class
+      sourceDir: opennlp-distr/target/filtered-md/opennlp-tools/src/main/java
+      sourceFile: opennlp/tools/stemmer/snowball/porterStemmer.java
